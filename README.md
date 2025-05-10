@@ -2,7 +2,6 @@
 First and second projects in Haskell and Prolog for the Functional and Logic Programming curricular unit.
 
 ## Project Infos
-
 - Date: 3rd Year, 1st Semester
 - Course: Programação Funcional e em Lógica | Functional and Logic Programming
 - Course Link: https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=541889
